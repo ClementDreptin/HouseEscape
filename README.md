@@ -14,7 +14,7 @@ Start a development server on localhost:8080.
 npm run dev
 ```
 &nbsp;
-Build for production (**the code and the webpack config aren't optimized for production!**).
+Build for production.
 ```
 npm run build
 ```
